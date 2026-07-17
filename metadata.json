@@ -1,0 +1,6 @@
+{
+  "name": "Pellet Express Polska",
+  "description": "Premium wood pellet heating solutions in Poland. Clean, highly efficient, and reliable delivery. Bi-lingual EN/PL landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
